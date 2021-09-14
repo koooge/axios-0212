@@ -311,7 +311,7 @@ eval("\n\nvar bind = __webpack_require__(/*! ./helpers/bind */ \"./node_modules/
   \**********************/
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("const axios = __webpack_require__(/*! axios */ \"./node_modules/axios/index.js\");\n\nconsole.log('Hello, axios 0.21.2');\n\n\n//# sourceURL=webpack://axios-targetweb-0212/./src/index.js?");
+eval("const axios = __webpack_require__(/*! axios */ \"./node_modules/axios/index.js\");\n\nconsole.log('Hello, axios 0.21.1');\n\n\n//# sourceURL=webpack://axios-targetweb-0212/./src/index.js?");
 
 /***/ })
 
